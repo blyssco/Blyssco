@@ -15,7 +15,6 @@
   - PHP
   - React 
   - .NET
-  - SQL Server
 
 - 📚 I’m currently learning:
   - .NET 7 - 8
